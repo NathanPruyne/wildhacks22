@@ -49,8 +49,8 @@ class MyView extends Croquet.View {
 Croquet.App.makeWidgetDock(); // shows QR code
 
 Croquet.Session.join({
-  appId: "io.codepen.croquet.hello",
-  apiKey: "1_9oolgb5b5wc5kju39lx8brrrhm82log9xvdn34uq",
+  appId: 'edu.northwestern.u.npruyne.wildhacks22',
+  apiKey: "19pILqAmDbA95D8OyDcM9xfIvuu6s7Hp4i45K5tNH",
   name: "unnamed",
   password: "secret",
   model: MyModel,
